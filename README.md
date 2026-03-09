@@ -4,16 +4,13 @@
 
 MBA student transitioning from Operations into Data Analytics.
 
+💼 3+ years experience in operations including team management and inventory tracking using Excel.
+
+📊 Currently building analytics projects using Python, SQL, MySQL and Power BI.
+
 ### Skills
 Python | SQL | MySQL | Power BI | Excel
 
-### Background
-3+ years experience in operations including team management and inventory tracking using Excel.
-
-### Current Focus
-Building data analytics projects using Python, SQL, and Power BI.
-
 ### Projects
-- Customer Shopping Behavior Analysis
-- Sales Data Analysis (Python + SQL)
-- Power BI Business Dashboard
+- Customer Trends Data Analysis (SQL + Python + Power BI)
+- Diwali Sales Analysis (Python EDA)
